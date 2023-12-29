@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
-}
-
+    @IBAction  func changeColor(_ sender: Any) {
+            let navBar = self.navigationController?.navigationBar
+            navBar?.barTintColor = .red
+            navBar?.isTranslucent = true
+        }
+    }
