@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  HomeworkTen
-//
-//  Created by Евгений Сушков on 21.12.2023.
-//
-
 import UIKit
 
 @main
